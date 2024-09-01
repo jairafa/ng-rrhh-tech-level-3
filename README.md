@@ -2,10 +2,10 @@
 
 ## Información del Candidato
 
-Nombre: [Tu Nombre Completo]
-Correo electrónico: [Tu Correo Electrónico]
-LinkedIn: [Tu perfil de LinkedIn]
-GitHub: [Tu perfil de GitHub]
+Nombre: Jairo Vega Lizarazo
+Correo electrónico: jairafa@gmail.com
+LinkedIn: jairo-vega-lizarazo
+GitHub: jairafa
 
 ## Descripción del Proyecto
 
